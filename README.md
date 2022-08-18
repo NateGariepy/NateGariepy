@@ -7,14 +7,14 @@
   -
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - 
-- <b>C#</b>
+- <b>⌨️C#</b>
   - 
   - 
   - 
-- <b>Project Archive</b>
+- <b>🗃Project Archive</b>
   - 
   -
-- <b>Certifications</b>
+- <b>📄Certifications</b>
   -
   - Comptia A+
   - Comptia Network+
