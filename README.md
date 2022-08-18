@@ -5,7 +5,7 @@
 
 - <b>🐍Python</b>
   -
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [HangMan Game](https://replit.com/@n8gariepy/Hangman?v=2)
   - 
 - <b>⌨️C#</b>
   - 
