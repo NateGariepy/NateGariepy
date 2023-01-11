@@ -21,6 +21,8 @@
   - Comptia A+
   - Comptia Network+
   - Google IT Support Professional
+  - ITIL4 Foundation
+  - Comptia Project+
 
 <h2> 🤳 Connect with me:</h2>
 
