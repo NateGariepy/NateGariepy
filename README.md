@@ -20,9 +20,11 @@
   -
   - Comptia A+
   - Comptia Network+
+  - Comptia Project+
   - Google IT Support Professional
   - ITIL4 Foundation
-  - Comptia Project+
+  - AWS Cloud Practitioner
+  
 
 <h2> 🤳 Connect with me:</h2>
 
