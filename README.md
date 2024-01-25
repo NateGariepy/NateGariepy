@@ -1,6 +1,6 @@
 <h1>Hi, I'm Nate! <br/><a href="https://github.com/NateGariepy">Junior Software Engineer</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Software Engineer Projects:</h2>
 
 
 - <b>🐍Python</b>
